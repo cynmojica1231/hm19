@@ -6,8 +6,11 @@
 ## Description
 This is an employee directory created with React.
 
-The directory can be filtered by typing a name in filter field and can be sorted. 
+The user should be able to:
 
+  * Sort the table by at least one category
+
+  * Filter the users by at least one property.
 
 ## Table of Contents
 * [Installation](#installation) 
