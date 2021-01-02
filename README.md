@@ -8,9 +8,6 @@ This is an employee directory created with React.
 
 The directory can be filtered by typing a name in filter field.
 
-## Deploy
-
-https://cynmojica1231.github.io/hm19/
 
 ## Table of Contents
 * [Installation](#installation) 
@@ -23,7 +20,32 @@ https://cynmojica1231.github.io/hm19/
  
 * [Tests](#tests) 
  
-* [Questions](#questions) 
+
+## Installation
+​
+To install necessary dependencies, run the following command:
+​
+npm install
+​
+## Usage
+​
+Run "npm start" to start the server localhost:3000
+​
+
+## Deploy
+​
+To see my work: https://cynmojica1231.github.io/hm19/
 
 
+## License
+​
+This project is licensed under the MIT license.
+
+
+## Tests
+​
+To run tests, run the following command:
+​
+​
+npm test
 
