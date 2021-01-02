@@ -6,7 +6,7 @@
 ## Description
 This is an employee directory created with React.
 
-The directory can be filtered by typing a name in filter field.
+The directory can be filtered by typing a name in filter field and can be sorted. 
 
 
 ## Table of Contents
