@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Cynthia.jpg ",
+    "name": "Cynthia Mojica",
+    "department": "Management",
+    "email": "cynm@mail.com",
+    "phone": "650-323-7889"
+  },
+  {
+    "id": 2,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Buck.jpg",
+    "name": "Buck Harris",
+    "department": "Management",
+    "email": "bharr@mail.com",
+    "phone": "650-321-3092"
+  },
+  {
+    "id": 3,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Emman.jpg",
+    "name": "Emman Mojica",
+    "department": "Management",
+    "email": "emman@mail.com",
+    "phone": "650-416-5690"
+  },
+  {
+    "id": 4,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Jonas.jpg",
+    "name": "Jonas Escoesta",
+    "department": "Logistics",
+    "email": "jescoesta@mail.com",
+    "phone": "650-654-2876"
+  },
+  {
+    "id": 5,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Jackie.jpg",
+    "name": "Jackie Chavez",
+    "department": "Marketing",
+    "email": "jchavez@mail.com",
+    "phone": "650-888-7823"
+  },
+  {
+    "id": 6,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Colin.jpg",
+    "name": "Colin Quinn",
+    "department": "Marketing",
+    "email": "colin@email.com",
+    "phone": "650-523-4512"
+  },
+  {
+    "id": 7,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/MK.jpg",
+    "name": "Miguel Juancho",
+    "department": "Logistics",
+    "email": "miguel@mail.com",
+    "phone": "650-987-5321"
+  },
+  {
+    "id": 8,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Mayet.jpg",
+    "name": "Mayeth Mata",
+    "department": "Marketing",
+    "email": "mayet@mail.com",
+    "phone": "650-987-4562"
+  },
+  {
+    "id": 9,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/isis.jpg",
+    "name": "Isis Gozon",
+    "department": "Sales",
+    "email": "isis@mail.com",
+    "phone": "650-554-6326"
+  },
+  {
+    "id": 10,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Mark.jpg",
+    "name": "Mark Tandang",
+    "department": "Engineering",
+    "email": "mark@mail.com",
+    "phone": "650-562-9843"
+  },
+  {
+    "id": 11,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Teena.png",
+    "name": "Teena Mojica",
+    "department": "Admin",
+    "email": "teena@mail.com",
+    "phone": "650-953-4523"
+  },
+  {
+    "id": 12,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Raymond.jpg",
+    "name": "Raymond Tandang",
+    "department": "Design",
+    "email": "rroster@mail.com",
+    "phone": "650-235-8531"
+  },
+  {
+    "id": 13,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Bryan.jpg",
+    "name": "Bryan Nuestro",
+    "department": "Engineering",
+    "email": "bnuestro@email.com",
+    "phone": "650-900-6542"
+  },
+  {
+    "id": 14,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Mohammad.jpg",
+    "name": "Mohammad Islam",
+    "department": "Engineering",
+    "email": "moislam@email.com",
+    "phone": "650-423-8572"
+  },
+  {
+    "id": 15,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Emma.jpg",
+    "name": "Emma Mojica",
+    "department": "Finance",
+    "email": "emma@mail.com",
+    "phone": "650-532-1122"
+  },
+  {
+    "id": 16,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Nancy.jpg",
+    "name": "Nancy Austria",
+    "department": "Sales",
+    "email": "naustria@mail.com",
+    "phone": "650-897-3521"
+  },
+  {
+    "id": 17,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Ritchmond.jpg",
+    "name": "Ritchmond Tandang",
+    "department": "Design",
+    "email": "rmall@mail.com",
+    "phone": "650-632-1240"
+  },
+  {
+    "id": 18,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Riza.jpeg",
+    "name": "Riza Mojica",
+    "department": "Finance",
+    "email": "rmojica@mail.com",
+    "phone": "650-852-9991"
+  },
+  {
+    "id": 19,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Marilyn.jpg",
+    "name": "Marilyn Harris",
+    "department": "Marketing",
+    "email": "mlores@mail.com",
+    "phone": "650-987-5289"
+  },
+  {
+    "id": 20,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Rhia.jpg",
+    "name": "Rhia Dela Cruz",
+    "department": "Sales",
+    "email": "rhia@mail.com",
+    "phone": "650-757-7145"
+  },
+  {
+    "id": 21,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Regina.jpg",
+    "name": "Regina Mata",
+    "department": "HR",
+    "email": "rmata@mail.com",
+    "phone": "650-562-9563"
+  },
+  {
+    "id": 22,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Len-len.jpeg",
+    "name": "Aprylin Angcaya",
+    "department": "Sales",
+    "email": "alove@mail.com",
+    "phone": "650-556-3214"
+  },
+  {
+    "id": 23,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Joselyn.jpg",
+    "name": "Joselyn Torio",
+    "department": "Design",
+    "email": "jocelyn@mail.com",
+    "phone": "650-452-8888"
+  },
+  {
+    "id": 24,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Domingo.jpg",
+    "name": "Domingo Austria",
+    "department": "Marketing",
+    "email": "doms@mail.com",
+    "phone": "650-333-4587"
+  },
+  {
+    "id": 25,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Carlie.jpg",
+    "name": "Carlie Valbuena",
+    "department": "Marketing",
+    "email": "carlie@mail.com",
+    "phone": "650-678-4140"
+  },
+  {
+    "id": 26,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Pol.jpg",
+    "name": "Florence Austria",
+    "department": "HR",
+    "email": "flence@mail.com",
+    "phone": "650-858-4562"
+  },
+  {
+    "id": 27,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Arphyl.jpg",
+    "name": "Arphyl Angacaya",
+    "department": "Sales",
+    "email": "r-phyl@mail.com",
+    "phone": "650-412-4451"
+  },
+  {
+    "id": 28,
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Janet.jpg",
+    "name": "Janet Jacalan",
+    "department": "Sales",
+    "email": "janet@mail.com",
+    "phone": "650-478-1020"
+  }
+]
