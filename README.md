@@ -13,6 +13,10 @@ The directory can be filtered by typing a name in filter field.
 * [Installation](#installation) 
  
 * [Usage](#usage) 
+
+* [Image](#image)
+
+* [Deploy](#deploy)
  
 * [License](#license) 
  
@@ -30,6 +34,12 @@ npm install
 ## Usage
 ​
 Run "npm start" to start the server localhost:3000
+​
+
+## Image
+​
+![Image of user's view when you visit the site](./employee-directory.png)
+
 ​
 
 ## Deploy
