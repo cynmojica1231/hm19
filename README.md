@@ -1,4 +1,4 @@
-# Employee Directory 📘📱👤
+# Employee Directory
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -8,8 +8,22 @@ This is an employee directory created with React.
 
 The directory can be filtered by typing a name in filter field.
 
-### Deploy
+## Deploy
 
 https://cynmojica1231.github.io/hm19/
+
+## Table of Contents
+* [Installation](#installation) 
+ 
+* [Usage](#usage) 
+ 
+* [License](#license) 
+ 
+* [Contributing](#contributing) 
+ 
+* [Tests](#tests) 
+ 
+* [Questions](#questions) 
+
 
 
