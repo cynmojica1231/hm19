@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hm19/static/css/main.7da3f9dc.chunk.css",
+    "main.js": "/hm19/static/js/main.81190cdc.chunk.js",
+    "main.js.map": "/hm19/static/js/main.81190cdc.chunk.js.map",
+    "runtime-main.js": "/hm19/static/js/runtime-main.485f8aad.js",
+    "runtime-main.js.map": "/hm19/static/js/runtime-main.485f8aad.js.map",
+    "static/js/2.16edfc52.chunk.js": "/hm19/static/js/2.16edfc52.chunk.js",
+    "static/js/2.16edfc52.chunk.js.map": "/hm19/static/js/2.16edfc52.chunk.js.map",
+    "index.html": "/hm19/index.html",
+    "static/css/main.7da3f9dc.chunk.css.map": "/hm19/static/css/main.7da3f9dc.chunk.css.map",
+    "static/js/2.16edfc52.chunk.js.LICENSE.txt": "/hm19/static/js/2.16edfc52.chunk.js.LICENSE.txt",
+    "static/media/Cali-name-logo.ba7ad920.jpg": "/hm19/static/media/Cali-name-logo.ba7ad920.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.485f8aad.js",
+    "static/js/2.16edfc52.chunk.js",
+    "static/css/main.7da3f9dc.chunk.css",
+    "static/js/main.81190cdc.chunk.js"
+  ]
+}
